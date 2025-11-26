@@ -73,7 +73,13 @@ Map
 
 3. Run the Dash app
 
-4. - View in browser
+4. View in browser
+
+Screen Shots of Dashboard
+![Dashboard](app/screenshot/dash%20app%201.jpg)
+
+![Dashboard](app/screenshot/dash%20app%202.jpg)
+
 
 ---
 
