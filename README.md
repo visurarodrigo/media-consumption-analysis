@@ -74,12 +74,15 @@ Map
 3. Run the Dash app
 
 4. View in browser
+<<<<<<< HEAD
 
 Screen Shots of Dashboard
 ![Dashboard](app/screenshot/dash%20app%201.jpg)
 
 ![Dashboard](app/screenshot/dash%20app%202.jpg)
 
+=======
+>>>>>>> ae5c22cab7486102ec004c1d09a9debb00d5221a
 
 ---
 
