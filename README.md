@@ -73,7 +73,7 @@ Map
 
 3. Run the Dash app
 
-4. - View in browser
+4. View in browser
 
 ---
 
